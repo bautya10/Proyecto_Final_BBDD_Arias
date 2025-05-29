@@ -1,0 +1,5 @@
+id_cliente,nombre,apellido,email,Gasto_Total
+1,Juan,Pérez,juan.perez@example.com,799.99
+2,Ana,García,ana.garcia@example.com,60.00
+5,Pedro,Sánchez,pedro.sanchez@example.com,30.00
+4,María,López,maria.lopez@example.com,3.50
